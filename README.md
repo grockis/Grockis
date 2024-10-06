@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Soy Rendorrr!;Desarrollador+de+fivem;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=2000&center=true&vCenter=true&width=500&height=70&lines=Hola+a+todos!;%F0%9F%91%8B+Soy+Rendorrr!;Desarrollador+Senior+de+FiveM" />
 </h1>
 
 <h3 align="center">Un joven apasionado por la programacion</h3>
