@@ -33,4 +33,5 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,atom,cs,electron,lua,php" /><br>
 </div>
 
-<br>
+<br/>
+<hr/>
