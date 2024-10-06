@@ -35,3 +35,11 @@
 
 <br/>
 <hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="eldestinorp" src="https://i.imgur.com/AV1z2I8.png" />
+  
+  <br/><br/><br/>
+</div>
