@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 Ahora mismo estoy trabajando en **El Destino RP**
- 
- 🌱 Estoy mejorando mis habilidades en JS.
+ 🧹 Ahora mismo estoy trabajando en **El Destino RP**
+
+ 📨 Contacta conmigo por discord: rendorrr
 
  💬 Mi mejor proyecto realizado es la gestion de puertos por control [Soon...]()
-
- 📫 Contacta conmigo por discord: rendorrr
+ 
+ 📖 Estoy mejorando mis habilidades en JavaScript.
 
  </div>
  
@@ -37,9 +37,6 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="eldestinorp" src="https://i.imgur.com/AV1z2I8.png" />
-  
   <br/><br/><br/>
 </div>
