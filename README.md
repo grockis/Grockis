@@ -32,8 +32,3 @@
     <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,blender,dotnet,jquery,ps,postman,sequelize,unity,unreal,visualstudio,webpack" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql,atom,cs,electron,lua,php" /><br>
 </div>
-
-<br/>
-<hr/>
-
-<hr/>
