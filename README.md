@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hola+a+todos!+%F0%9F%91%8B;Soy+desarrollador+de+FiveM;(Empezando+en+twitch)" />
 </h1>
 
-<h3 align="center">Un joven que no encaja en la sociedad</h3>
-
 <br/>
 
 <div align="center">
