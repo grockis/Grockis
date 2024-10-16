@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=2000&center=true&vCenter=true&width=500&height=70&lines=Hola+a+todos!+%F0%9F%91%8B;Soy+Rendorrr!;Desarrollador+Senior+de+FiveM" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&width=500&height=70&lines=Hola+a+todos!+%F0%9F%91%8B;Soy+desarrollador+de+FiveM;(Empezando+en+el+mundo+de+los+streams)" />
 </h1>
 
 <h3 align="center">Un joven que no encaja en la sociedad</h3>
