@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🧑‍🏭 Desarrollando **El Destino RP** para FiveM.
+ 🧑‍🏭 Desarrollando **Proyectos Varios** para empresas.
 
  </div>
  
@@ -18,7 +18,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Lo que uso ⚒️</h2>
+<h2 align="center">⚒️ Herramientas Personales ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,blender,dotnet,jquery,ps,postman,sequelize,unity,unreal,visualstudio,webpack" />
